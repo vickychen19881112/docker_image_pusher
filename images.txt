@@ -11,7 +11,7 @@
 #docker:26.1.4-dind-alpine3.20
 #docker:27.1.1-cli-alpine3.20
 #docker:27.1.1-dind-alpine3.20
-docker:27.2.1-cli-alpine3.20
+#docker:27.2.1-cli-alpine3.20
 #docker:27.2.1-dind-alpine3.20
 
 #debian:bookworm-slim
@@ -55,12 +55,17 @@ docker:27.2.1-cli-alpine3.20
 
 #python:3.12.6-alpine3.20
 
+# https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/
+# 16.11.6 => 16.11.10 => 17.3.3 => 17.4.0
 #gitlab/gitlab-ee:16.11.6-ee.0
 #gitlab/gitlab-ee:17.1.2-ee.0
 #gitlab/gitlab-ee:17.0.4-ee.0
 #gitlab/gitlab-ee:16.11.1-ee.0
 #gitlab/gitlab-ee:16.11.5-ee.0
 #gitlab/gitlab-ee:17.1.1-ee.0
+gitlab/gitlab-ee:16.11.10-ee.0
+gitlab/gitlab-ee:17.4.0-ee.0
+gitlab/gitlab-ee:17.3.3-ee.0
 
 #nvidia/cuda:11.1.1-cudnn8-devel-ubuntu18.04
 
