@@ -5,6 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+# registry.cn-shanghai.aliyuncs.com/bestjade-public
 ##############################################################################
 
 #docker:26.1.4-cli-alpine3.20
@@ -63,15 +64,25 @@
 #gitlab/gitlab-ee:16.11.1-ee.0
 #gitlab/gitlab-ee:16.11.5-ee.0
 #gitlab/gitlab-ee:17.1.1-ee.0
-gitlab/gitlab-ee:16.11.10-ee.0
-gitlab/gitlab-ee:17.4.0-ee.0
-gitlab/gitlab-ee:17.3.3-ee.0
+#gitlab/gitlab-ee:16.11.10-ee.0
+#gitlab/gitlab-ee:17.4.0-ee.0
+#gitlab/gitlab-ee:17.3.3-ee.0
 
 #nvidia/cuda:11.1.1-cudnn8-devel-ubuntu18.04
+nvidia/cuda:11.1.1-cudnn8-runtime-ubuntu20.04
+nvidia/cuda:11.1.1-cudnn8-devel-ubuntu20.04
+nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu20.04
+nvidia/cuda:12.2.2-cudnn8-devel-ubuntu20.04
+nvidia/cuda:12.4.1-cudnn-runtime-ubuntu22.04
+nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04
 
 #pytorch/pytorch:1.9.1-cuda11.1-cudnn8-devel
 #pytorch/pytorch:1.9.0-cuda11.1-cudnn8-devel
 #pytorch/pytorch:1.6.0-cuda10.1-cudnn7-devel
+pytorch/pytorch:2.3.1-cuda12.1-cudnn8-runtime
+pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
+pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
+pytorch/pytorch:2.4.1-cuda12.4-cudnn9-devel
 
 #paddlecloud/paddledetection:2.4-gpu-cuda11.2-cudnn8-38f695
 #paddlecloud/paddledetection:2.4-gpu-cuda10.2-cudnn7-38f695
