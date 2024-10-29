@@ -14,8 +14,8 @@
 #docker:27.1.1-dind-alpine3.20
 #docker:27.2.1-cli-alpine3.20
 #docker:27.2.1-dind-alpine3.20
-docker:27.3.1-cli-alpine3.20
-docker:27.3.1-dind-alpine3.20
+#docker:27.3.1-cli-alpine3.20
+#docker:27.3.1-dind-alpine3.20
 
 #debian:bookworm-slim
 #debian:bullseye-slim
@@ -35,12 +35,12 @@ docker:27.3.1-dind-alpine3.20
 #mysql:8.0.39-bookworm
 
 #redis:7.4.0-alpine3.20
-redis:7.4.1-alpine3.20
+#redis:7.4.1-alpine3.20
 #memcached:1.6.31-alpine3.20
 
 #rabbitmq:3.13.7-alpine
 
-node:23.0.0-alpine3.20
+#node:23.0.0-alpine3.20
 #node:22.8.0-alpine3.20
 #node:20.17.0-alpine3.20
 #node:18.20.4-alpine3.20
@@ -60,9 +60,11 @@ node:23.0.0-alpine3.20
 #php:8.3.9-apache-bookworm
 
 #python:3.12.6-alpine3.20
-python:3.13.0-alpine3.20
+#python:3.13.0-alpine3.20
 
 #jupyter/base-notebook:x86_64-notebook-7.0.6
+
+semgrep/semgrep:latest
 
 # https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/
 # 16.11.6 => 16.11.10 => 17.3.3 => 17.4.0
