@@ -64,7 +64,7 @@
 
 #jupyter/base-notebook:x86_64-notebook-7.0.6
 
-semgrep/semgrep:latest
+returntocorp/semgrep:1.93.0
 
 # https://gitlab-com.gitlab.io/support/toolbox/upgrade-path/
 # 16.11.6 => 16.11.10 => 17.3.3 => 17.4.0
