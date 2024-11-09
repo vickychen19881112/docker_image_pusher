@@ -19,6 +19,7 @@
 
 #debian:bookworm-slim
 #debian:bullseye-slim
+alpine:3.14.10
 #alpine:3.20.2
 #alpine:3.20.3
 #busybox:1.36.1-musl
@@ -95,8 +96,8 @@
 #pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
 #pytorch/pytorch:2.4.1-cuda12.4-cudnn9-runtime
 #pytorch/pytorch:2.4.1-cuda12.4-cudnn9-devel
-pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
-pytorch/pytorch:2.5.1-cuda12.1-cudnn9-runtime
+#pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
+#pytorch/pytorch:2.5.1-cuda12.1-cudnn9-runtime
 
 #paddlecloud/paddledetection:2.4-gpu-cuda11.2-cudnn8-38f695
 #paddlecloud/paddledetection:2.4-gpu-cuda10.2-cudnn7-38f695
