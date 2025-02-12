@@ -69,8 +69,10 @@
 #python:3.13.0-alpine3.20
 #python:3.13.0-alpine3.20
 #python:3.12.9-alpine3.21
-python:3.13.2-alpine3.21
-python:3.11.11-alpine3.21
+#python:3.13.2-alpine3.21
+#python:3.11.11-alpine3.21
+python:3.13.2-slim-bookworm
+python:3.12.9-slim-bookworm
 
 #jupyter/base-notebook:x86_64-notebook-7.0.6
 
