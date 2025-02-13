@@ -22,6 +22,7 @@
 #debian:bookworm-slim
 #debian:bullseye-slim
 #debian:12.9-slim
+#debian:bookworm-slim
 #alpine:3.14.10
 #alpine:3.20.2
 #alpine:3.20.3
