@@ -149,6 +149,7 @@
 #paddlecloud/paddleseg:2.6-gpu-cuda10.2-cudnn7-8d0a94
 #paddlecloud/paddleseg:2.6-cpu-8d0a94
 
-syncthing/syncthing:1.29.2
-linuxserver/syncthing:1.29.2
+#syncthing/syncthing:1.29.2
+#linuxserver/syncthing:1.29.2
+canal/canal-server:v1.1.8-amd64
 
