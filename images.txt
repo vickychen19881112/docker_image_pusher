@@ -87,7 +87,7 @@
 #python:3.13.2-slim-bookworm
 #python:3.12.9-slim-bookworm
 #python:3.11.11-slim-bookworm
-python:3.10.16-slim-bookworm
+#python:3.10.16-slim-bookworm
 
 #jupyter/base-notebook:x86_64-notebook-7.0.6
 
@@ -148,4 +148,7 @@ python:3.10.16-slim-bookworm
 #paddlecloud/paddleseg:2.6-gpu-cuda11.2-cudnn8-8d0a94
 #paddlecloud/paddleseg:2.6-gpu-cuda10.2-cudnn7-8d0a94
 #paddlecloud/paddleseg:2.6-cpu-8d0a94
+
+syncthing/syncthing:1.29.2
+linuxserver/syncthing:1.29.2
 
