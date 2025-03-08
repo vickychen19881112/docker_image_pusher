@@ -153,5 +153,6 @@
 #linuxserver/syncthing:1.29.2
 #canal/canal-server:v1.1.8-amd64
 
-ollama/ollama:0.5.13
+#ollama/ollama:0.5.13
+lukechilds/dockerpi:vm
 
