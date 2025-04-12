@@ -160,4 +160,5 @@
 #lukechilds/dockerpi:vm
 
 #redmine:6.0.4-alpine3.21
-httpd:2.4.63-alpine3.21
+#httpd:2.4.63-alpine3.21
+nginx:1.27.4-alpine3.21
