@@ -1,7 +1,8 @@
 #alpine
-#daprio/daprd:1.15.4
-#ghcr.io/dapr/placement:1.15.4
-daprio/dashboard:latest
+daprio/daprd:1.11.2
+ghcr.io/dapr/placement:1.11.2
+#daprio/dashboard:latest
+#redis:7.4.0-alpine3.20
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
