@@ -1,4 +1,5 @@
-zlmediakit/zlmediakit:master
+ubuntu:22.04
+#zlmediakit/zlmediakit:master
 #alpine
 #daprio/daprd:1.11.2
 #ghcr.io/dapr/placement:1.11.2
